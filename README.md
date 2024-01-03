@@ -1,5 +1,5 @@
- --script dragon ball super herois
- --script
+  --script
+
 loadstring(game:HttpGet("https://pastefy.app/DNz9lDDN/raw"))()
 
  
